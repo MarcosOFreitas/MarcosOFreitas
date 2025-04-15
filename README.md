@@ -18,9 +18,12 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/marcos-oliveira-670b43286/" width="52" height="40" alt="linkedin logo"  />
-  <img src="freitasmarcos972@gmail.com" width="52" height="40" alt="gmail logo"  />
-  <img src="marcos_oliveira" width="52" height="40" alt="discord logo"  />
+  <a href="www.linkedin.com/in/marcos-oliveira-670b43286" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -51,7 +54,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MarcosOFreitas/MarcosOFreitas/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosOFreitas/MarcosOFreitas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosOFreitas/MarcosOFreitas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarcosOFreitas/MarcosOFreitas/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
