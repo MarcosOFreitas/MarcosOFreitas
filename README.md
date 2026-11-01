@@ -34,16 +34,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle Database" title="Oracle Database" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" height="40" alt="Power BI" title="Power BI" />
+</p>
+
+**Mensageria**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ" title="RabbitMQ" />
 </p>
 
 **DevOps e Cloud**
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps" title="Azure DevOps" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS S3" title="AWS S3" />
 </p>
+
+**📚 Estudando atualmente**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Rust.svg" height="40" alt="Rust (estudando)" title="Rust (estudando)" />
+</p>
+
+**Outras ferramentas:** pacote Microsoft 365 (Office).
 
 ---
 
@@ -54,7 +74,7 @@
 | Modelagem de dados (relacional e dimensional) | Machine Learning | APIs REST |
 | SQL e otimização de consultas | Deep Learning | Git e versionamento |
 | Pipelines ETL / ELT | LLMs e Prompt Engineering | CI/CD |
-| Data Warehouse | RAG (Retrieval-Augmented Generation) | Containers |
+| Data Warehouse | RAG (Retrieval-Augmented Generation) | Mensageria e filas |
 | Visualização de dados e dashboards | Estatística aplicada | Testes automatizados |
 
 ---
@@ -62,8 +82,8 @@
 ### 📶 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosOFreitas&show_icons=true&include_all_commits=true&theme=dracula&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosOFreitas&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+  <img src="./profile/stats.svg" height="150" alt="Estatísticas do GitHub" />
+  <img src="./profile/top-langs.svg" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
